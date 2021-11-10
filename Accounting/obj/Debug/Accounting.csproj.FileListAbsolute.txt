@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\bin\Debug\Accounting.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\obj\Debug\Accounting.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\obj\Debug\Accounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\obj\Debug\Accounting.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic_C#_Programs\Accounting\obj\Debug\Accounting.pdb
