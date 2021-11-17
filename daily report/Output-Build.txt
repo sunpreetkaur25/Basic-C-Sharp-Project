@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: daily report, Configuration: Debug Any CPU ------
+1>C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\daily report\Program.cs(12,25,12,33): error CS1501: No overload for method 'ReadLine' takes 1 arguments
+1>C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\daily report\Program.cs(18,17,18,35): error CS0029: Cannot implicitly convert type 'string' to 'int'
+1>C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\daily report\Program.cs(12,34,12,35): error CS0165: Use of unassigned local variable 'B'
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
