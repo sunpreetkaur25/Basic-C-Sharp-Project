@@ -21,9 +21,11 @@
         int Hoursperweek2 = Convert.ToInt32(Console.ReadLine());
 
         int Salary1 = Hoursperweek * HoursRate;
-        Console.WriteLine("Annual salary of Person 1:" + Salary1);
+        int AnnualS1 = Salary1 * 52;
+        Console.WriteLine("Annual salary of Person 1:" + AnnualS1);
         int Salary2 = Hoursperweek2 * HoursRate2;
-        Console.WriteLine("Annual salary of Person 2:"  + Salary2);
+        int AnnualS2 = Salary2 * 52;
+        Console.WriteLine("Annual salary of Person 2:"  + AnnualS2);
 
         
         Console.WriteLine("Person 1 makes more money than Person 2");

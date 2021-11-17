@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\obj\Debug\StringAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\StringAssignment\obj\Debug\StringAssignment.pdb
