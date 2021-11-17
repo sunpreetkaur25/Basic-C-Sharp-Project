@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\bin\Debug\while_and_dowhile.exe.config
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\bin\Debug\while_and_dowhile.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\bin\Debug\while_and_dowhile.pdb
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\obj\Debug\while_and_dowhile.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\obj\Debug\while_and_dowhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\obj\Debug\while_and_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\obj\Debug\while_and_dowhile.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\while_and_dowhile\obj\Debug\while_and_dowhile.pdb

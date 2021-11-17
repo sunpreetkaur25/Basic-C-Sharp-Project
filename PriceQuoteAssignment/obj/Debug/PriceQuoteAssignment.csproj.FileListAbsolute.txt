@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\bin\Debug\PriceQuoteAssignment.exe.config
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\bin\Debug\PriceQuoteAssignment.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\bin\Debug\PriceQuoteAssignment.pdb
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\obj\Debug\PriceQuoteAssignment.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\obj\Debug\PriceQuoteAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\obj\Debug\PriceQuoteAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\obj\Debug\PriceQuoteAssignment.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\PriceQuoteAssignment\obj\Debug\PriceQuoteAssignment.pdb
