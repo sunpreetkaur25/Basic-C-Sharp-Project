@@ -6,7 +6,7 @@ namespace PriceQuote
         {
             static void Main()
             {
-                string A = "Welcome to Package Express. Please follow the instructions below.";
+                string A = "Welcome to Package Express. Please follow the instructions. Thank you";
                 Console.WriteLine(A);
 
                 Console.WriteLine("What is the package weight?");
