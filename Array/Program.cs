@@ -23,7 +23,7 @@ namespace Array
             numArray[3] = 4;
             numArray[4] = 5;
 
-            int[] numArray1 = new int[5] {};
+            int[] numArray1 = new int[5];
 
             Console.WriteLine(numArray1);
             Console.ReadLine();

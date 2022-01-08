@@ -1,0 +1,2 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Exception Assignment\obj\Debug\Exception Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Exception Assignment\obj\Debug\Exception Assignment.csproj.CoreCompileInputs.cache
