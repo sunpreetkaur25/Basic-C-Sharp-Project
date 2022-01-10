@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\obj\Debug\AbstractClasses_Assignment.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\obj\Debug\AbstractClasses_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\obj\Debug\AbstractClasses_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\bin\Debug\AbstractClasses_Assignment.exe.config
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\bin\Debug\AbstractClasses_Assignment.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\bin\Debug\AbstractClasses_Assignment.pdb
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\obj\Debug\AbstractClasses_Assignment.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\AbstractClasses_Assignment\obj\Debug\AbstractClasses_Assignment.pdb

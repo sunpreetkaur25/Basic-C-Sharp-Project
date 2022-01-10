@@ -1,4 +1,6 @@
-﻿namespace OperatorOverload
+﻿using System;
+using System.Collections.Generic;
+namespace OperatorOverload
 {
     class Program
     {
@@ -15,7 +17,8 @@
             example2.LastName = "singh";
             example2.ID = 456;
 
-            
+            Console.WriteLine(example.ID == example2.ID);
+            Console.ReadLine();
         }
     }
 }

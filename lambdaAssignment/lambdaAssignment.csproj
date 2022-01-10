@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7A8F601D-4889-4762-A18C-7AD927B706F8}</ProjectGuid>
+    <ProjectGuid>{AEB01AA9-35D8-46D4-A7EB-542ACB6F27E7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Generics_Assignment</RootNamespace>
-    <AssemblyName>Generics Assignment</AssemblyName>
+    <RootNamespace>lambdaAssignment</RootNamespace>
+    <AssemblyName>lambdaAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

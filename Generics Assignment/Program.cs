@@ -1,34 +1,34 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Generics_Assignment
 {
 
-     class GenericEmployeeList<T>
+    public class Program
     {
-        public void Add(T input) { }
-    }
-    class TestGenericList
-    {
-        private class ExampleClass { }
-        static void Main()
+        static void Main(string[] args)
         {
-           
-            GenericList<int> list1 = new GenericList<int>();
-            list1.Add(1);
+            Employee<string> employee1 = new Employee<string>();
+            employee1.Things = new List<string> ();
+            employee1.Things.Add("I am an Employee of Academy learning");
+            employee1.Things.Add(" It is in Brampton");
+            employee1.Things.Add("Canada");
 
-         
-            GenericList<string> list2 = new GenericList<string>();
-            list2.Add("");
+            Employee<int> employee2 = new Employee<int>();
+            employee2.Things = new List<int>();
+            employee2.Things.Add(123);
+            employee2.Things.Add(456);
+            employee2.Things.Add(789);
 
-        
-            GenericList<ExampleClass> list3 = new GenericList<ExampleClass>();
-            list3.Add(new ExampleClass());
-        }
-
-        GenericList<int> list = new GenericList<int>();
-
-        foreach (int i in list)
-        {
-            System.Console.Write();
+            foreach (string s in employee1.Things)
+            {
+                Console.WriteLine(s);
+            }
+            foreach (int s in employee2.Things)
+            {
+                Console.WriteLine(s);
+            }
+            Console.ReadLine();
         }
     }
+}

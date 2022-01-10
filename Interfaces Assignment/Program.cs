@@ -13,7 +13,7 @@ namespace Interfaces
         public void Quit()
         {
 
-            Console.WriteLine();
+            Console.WriteLine("I Quit");
         }
     }
 
