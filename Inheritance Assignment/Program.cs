@@ -18,7 +18,7 @@ namespace Inheritance_Assignment
                 Console.WriteLine("LastName: {0}", LastName);
             }
         }
-        public class Employee
+        public class Employee: Person
         {
             public int Id;
             public Employee()
@@ -33,8 +33,9 @@ namespace Inheritance_Assignment
             {
             Employee d = new Employee();
                 d.Id = 1;
-                d.Employee.FirstName = ("Sample");
-                d.Employee.LastName=("Student");
+                d.FirstName = ("Sample");
+                d.LastName=("Student");
+                d.SayName();
                 Console.WriteLine("\nPress Any Key to Exit..");
                 Console.ReadLine();
             }
