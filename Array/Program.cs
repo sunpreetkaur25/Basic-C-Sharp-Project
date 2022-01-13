@@ -13,8 +13,16 @@ namespace Array
             intlist.Add("is");
             intlist.Add("Sunpreet");
             intlist.Add("Kaur");
-            Console.WriteLine();
-            Console.ReadLine();
+            Console.WriteLine("Enter a Number between 0 to 4");
+            int number = Convert.ToInt32(Console.ReadLine());
+            if (number <= 4)
+            {
+                Console.WriteLine(intlist[number]);
+}
+            else 
+            {
+                Console.WriteLine("Please enter a number between 0 and 4"); 
+            }
 
             int[] numArray = new int[5];
             numArray[0] = 1;
@@ -22,6 +30,14 @@ namespace Array
             numArray[2] = 3;
             numArray[3] = 4;
             numArray[4] = 5;
+            if (number <= 4)
+            {
+                Console.WriteLine(intlist[number]);
+            }
+            else
+            {
+                Console.WriteLine("Please enter a number between 0 and 4");
+            }
 
             int[] numArray1 = new int[5];
 
