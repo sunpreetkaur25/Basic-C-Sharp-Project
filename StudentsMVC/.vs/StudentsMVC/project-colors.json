@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d7b3128-8f67-4883-934c-81d4c64c0d19": {
+      "ProjectGuid": "3d7b3128-8f67-4883-934c-81d4c64c0d19",
+      "DisplayName": "StudentsMVC",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -19,15 +19,18 @@ namespace Exception_Handling_Assignment
 
                 Console.WriteLine("The year in the date you entered: " + year);
             }
-            catch
+            catch (DivideByZeroException)
             {
                 Console.WriteLine("Please enter a positive or non-zero number");
             }
-            catch
+            catch (FormatException ex)
             {
                 Console.WriteLine("Please enter a valid number");
             }
-            Console.ReadLine();
+            finally
+            {
+                Console.ReadLine();
+            }
         }
     }
     }

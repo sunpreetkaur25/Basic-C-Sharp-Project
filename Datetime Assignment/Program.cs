@@ -13,6 +13,7 @@ namespace DateTime
             Console.ReadLine();
             Console.WriteLine("Please enter a number");
             int X = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("in" + X + "hours it will be" + DateTime.Now.AddHours);
 
         }
     }
