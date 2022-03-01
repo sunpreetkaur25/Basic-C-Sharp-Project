@@ -8,7 +8,7 @@ namespace EnumAssignment
        
           enum weekdays
         {
-            Sunday,    
+            Sunday, 
             Monday,   
             Tuesday,
             Wednesday,
