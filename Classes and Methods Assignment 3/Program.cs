@@ -13,7 +13,7 @@ namespace Assignment3
             Console.WriteLine("Result:" + some_ops(num1, num2));
         }
 
-        public static int some_ops(int num1, int num2)
+        public static int some_ops(int num1,int num2)
         {
             return num1 + num1;
         }

@@ -48,6 +48,28 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
+            double rate = 50;
+            int age = DateTime.Now.Year - insuree.DateOfBirth.Year;
+            if (age<=18) 
+            { rate = rate + 100; };
+            if (age>=19 && age<=25);
+            { rate = rate + 50; };
+            if (age > 25)
+            { rate = rate + 25; };
+            if (insuree.CarYear < 2000);
+            { rate = rate + 25; };
+            if (insuree.CarYear > 2015) ;
+            { rate = rate + 25; };
+            if (insuree.CarMake== "Porsche")
+            { rate = rate + 25; };
+            if (insuree.CarMake == "Porsche" && insuree.CarModel== " 911 Carrera")
+            { rate = rate + 25; };
+            if (insuree.DUI==true)
+            { rate += .25 * rate; };
+            if (insuree.CoverageType == true)
+            { rate += .50 * rate; };
+
+            insuree.Quote=Convert.ToInt32( rate);
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
