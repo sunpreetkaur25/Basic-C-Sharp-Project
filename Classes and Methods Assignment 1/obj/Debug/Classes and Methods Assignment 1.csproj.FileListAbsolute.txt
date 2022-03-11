@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.exe.config
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\bin\Debug\Classes and Methods Assignment 1.pdb
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.exe
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\Classes and Methods Assignment 1\obj\Debug\Classes and Methods Assignment 1.pdb
