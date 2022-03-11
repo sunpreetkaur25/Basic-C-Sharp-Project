@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0A67B832-567B-401A-A6C8-F07A217E7AB8}</ProjectGuid>
+    <ProjectGuid>{9E94A0C2-7C7D-42E1-A21E-0BBA6B0F8422}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Classes_and_Methods_Assignment_1</RootNamespace>
-    <AssemblyName>Classes and Methods Assignment 1</AssemblyName>
+    <RootNamespace>Classes_and_Methods_Assignment_3</RootNamespace>
+    <AssemblyName>Classes and Methods Assignment 3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\Classes and Methods Assignment 2.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
