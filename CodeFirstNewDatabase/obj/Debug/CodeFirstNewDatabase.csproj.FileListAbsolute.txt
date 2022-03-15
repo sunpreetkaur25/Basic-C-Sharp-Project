@@ -1,0 +1,3 @@
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\CodeFirstNewDatabase\obj\Debug\CodeFirstNewDatabase.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\CodeFirstNewDatabase\obj\Debug\CodeFirstNewDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\SUNPREET\Basic C-Sharp Projects\Basic-C-Sharp-Projects\CodeFirstNewDatabase\obj\Debug\CodeFirstNewDatabase.csproj.CoreCompileInputs.cache
